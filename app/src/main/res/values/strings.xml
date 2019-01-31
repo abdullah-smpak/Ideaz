@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IdeazShuttle</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAXKhIKKavYgR9qFW5bVmRLewToyufKOwI</string>
+</resources>

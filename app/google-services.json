@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "115860707601",
+    "firebase_url": "https://ideazshuttle-75bf7.firebaseio.com",
+    "project_id": "ideazshuttle-75bf7",
+    "storage_bucket": "ideazshuttle-75bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115860707601:android:265e4462018b8306",
+        "android_client_info": {
+          "package_name": "com.example.mimmadjaved.ideazshuttle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115860707601-l4v6i07b56qtoodujfqrp47g3e7k3elq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mimmadjaved.ideazshuttle",
+            "certificate_hash": "9cafa9053869a11bbf5c03db1c9d176d0061a052"
+          }
+        },
+        {
+          "client_id": "115860707601-2hd7b9v2d6h6s3qp9uc3ag25vq47880c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAKiHrXQvPAO0jHzD-S2m3qBpfzsmSz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115860707601-2hd7b9v2d6h6s3qp9uc3ag25vq47880c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
